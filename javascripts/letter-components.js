@@ -1,3 +1,5 @@
+// Copyright (c) 2018 wuxi9007
+
 // number of components in letters
 var letterHash = {
 	'A': 4,

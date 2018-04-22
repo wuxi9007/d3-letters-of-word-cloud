@@ -1,3 +1,4 @@
+// Copyright (c) 2018 wuxi9007
 // This is the API to render word patterns consisting of word clouds
 
 function wordle(div, words, pattern) { 
