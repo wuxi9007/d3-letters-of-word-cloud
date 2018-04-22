@@ -1,3 +1,8 @@
+// The MIT License (MIT)
+
+// Copyright (c) 2014 wvengen
+// Copyright (c) 2014 Julien Renaux
+
 // easy d3-based word cloud plugin https://github.com/wvengen/d3-wordcloud
 // requires https://github.com/jasondavies/d3-cloud
 // based on https://github.com/shprink/d3js-wordcloud

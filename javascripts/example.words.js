@@ -1,3 +1,8 @@
+// The MIT License (MIT)
+
+// Copyright (c) 2014 wvengen
+// Copyright (c) 2014 Julien Renaux
+
 var words = [
   {text: 'have', size: 1},
   {text: 'Oliver', size: 1},
