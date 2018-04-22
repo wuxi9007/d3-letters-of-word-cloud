@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Word Cloud (wordle)</title>
+    <script src="javascripts/jquery.min.js"></script>
+    <script src="javascripts/d3.js" charset="utf-8"></script>
+    <script src="javascripts/d3.layout.cloud.js"></script>
+    <script src="javascripts/d3.wordcloud.js"></script>
+    <script src="javascripts/letter-components.js"></script>
+    <script src="javascripts/example.words.js"></script>
+    <script src="javascripts/word-cloud-letters.js"></script>
+    <link rel="stylesheet" href="styles/wordle.css">
+  </head>
+  <body style="text-align: center">
+    <h1>Word Cloud</h1>
+    <div id='one'></div>
+    <div id='two'></div>
+    <div id='three'></div>
+    <p>This is an example of creating words that consist of words.</p>
+    <script>
+      var one = 'one';
+      var pattern = "TRY"; // Your word go here!
+      wordle(one, words, pattern);
+
+      var two = 'two';
+      var pattern = "THIS"; // Your word go here!
+      wordle(two, words, pattern);
+
+      var three = 'three';
+      var pattern = "OUT"; // Your word go here!
+      wordle(three, words, pattern);
+    </script>
+  </body>
+</html>

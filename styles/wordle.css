@@ -1,0 +1,311 @@
+#word-cloud {
+	padding-top: 10px;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+.cloud-components {
+	position: absolute;
+	
+}
+.cloud-components svg:not(:root) {
+	overflow: visible;
+}
+
+.letter-block {
+	position: relative;
+	display:inline-block;
+	height:600px;
+}
+.component-0 {
+}
+.component-1 {
+	margin-top: 90px;
+	margin-left: 150px;
+	-webkit-transform: translateX(-50%);
+	transform: translateX(-50%);
+}
+.component-2 {
+	margin-top: 400px;
+}
+.component-3 {
+	margin-top: 90px;
+}
+.component-4 {
+	margin-top: 80px;
+	margin-left: 210px;
+  -webkit-transform: rotate(70deg);
+  -moz-transform: rotate(70deg);
+  -o-transform: rotate(70deg);
+  -ms-transform: rotate(70deg);
+  transform: rotate(70deg);
+}
+.component-5 {
+	margin-top: 130px;
+	margin-left: 210px;
+  -webkit-transform: rotate(110deg);
+  -moz-transform: rotate(110deg);
+  -o-transform: rotate(110deg);
+  -ms-transform: rotate(110deg);
+  transform: rotate(110deg);
+}
+.component-6 {
+	margin-top: 200px;
+	margin-left: 80px;
+}
+.component-7 {
+	margin-top: 240px;
+	margin-left: 230px;
+  -webkit-transform: rotate(60deg);
+  -moz-transform: rotate(60deg);
+  -o-transform: rotate(60deg);
+  -ms-transform: rotate(60deg);
+  transform: rotate(60deg);
+}
+.component-8 {
+	margin-top: 320px;
+	margin-left: 230px;
+  -webkit-transform: rotate(-60deg);
+  -moz-transform: rotate(-60deg);
+  -o-transform: rotate(-60deg);
+  -ms-transform: rotate(-60deg);
+  transform: rotate(-60deg);
+}
+.component-9 {
+	margin-left: 80px;
+}
+.component-10 {
+	margin-top: 60px;
+	-webkit-transform: rotate(10deg);
+  -moz-transform: rotate(10deg);
+  -o-transform: rotate(10deg);
+  -ms-transform: rotate(10deg);
+  transform: rotate(10deg);
+}
+.component-11 {
+	margin-top: 60px;
+	margin-left: 150px;
+	-webkit-transform: rotate(-10deg);
+  -moz-transform: rotate(-10deg);
+  -o-transform: rotate(-10deg);
+  -ms-transform: rotate(-10deg);
+  transform: rotate(-10deg);
+}
+.component-12 {
+	margin-top: 230px;
+	margin-left: 90px;
+}
+.component-13 {
+}
+.component-14 {
+	margin-left:240px;
+	margin-top: 130px;
+}
+.component-15 {
+	margin-top:400px;
+}
+.component-16 {
+	margin-top:80px;
+}
+.component-17 {
+	margin-top:200px;
+	margin-left:150px;
+}
+.component-18 {
+	margin-top:300px;
+	margin-left:200px;
+}
+.component-19 {
+}
+.component-20 {
+	margin-left:250px;
+}
+.component-21 {
+	margin-left:160px;
+	margin-top:80px;
+}
+.component-22 {
+	margin-top:330px;
+	margin-left:10px;
+}
+.component-23 {
+	margin-left:140px;
+	-webkit-transform: rotate(40deg);
+  -moz-transform: rotate(40deg);
+  -o-transform: rotate(40deg);
+  -ms-transform: rotate(40deg);
+  transform: rotate(40deg);
+}
+.component-24 {
+	margin-top:230px;
+	margin-left:140px;
+	-webkit-transform: rotate(-40deg);
+  -moz-transform: rotate(-40deg);
+  -o-transform: rotate(-40deg);
+  -ms-transform: rotate(-40deg);
+  transform: rotate(-40deg);
+}
+.component-25 {
+	margin-left: 80px;
+	margin-top:400px;
+}
+.component-26 {
+}
+.component-27 {
+	margin-left:85px;
+	-webkit-transform: rotate(-10deg);
+  -moz-transform: rotate(-10deg);
+  -o-transform: rotate(-10deg);
+  -ms-transform: rotate(-10deg);
+  transform: rotate(-10deg);
+}
+.component-28 {
+	margin-left:190px;
+	-webkit-transform: rotate(10deg);
+  -moz-transform: rotate(10deg);
+  -o-transform: rotate(10deg);
+  -ms-transform: rotate(10deg);
+  transform: rotate(10deg);
+}
+.component-29 {
+	margin-left: 270px;
+}
+.component-30 {
+	margin-left: 130px;
+	-webkit-transform: rotate(-18deg);
+  -moz-transform: rotate(-18deg);
+  -o-transform: rotate(-18deg);
+  -ms-transform: rotate(-18deg);
+  transform: rotate(-18deg);
+}
+.component-31 {
+	margin-left:200px;
+	margin-top: 90px;
+}
+.component-32 {
+	margin-left:200px;
+	margin-top: 90px;
+}
+.component-33 {
+	margin-left: 130px;
+	margin-top: 280px;
+	-webkit-transform: rotate(-20deg);
+  -moz-transform: rotate(-20deg);
+  -o-transform: rotate(-20deg);
+  -ms-transform: rotate(-20deg);
+  transform: rotate(-20deg);
+}
+.component-34 {
+	margin-top:90px;
+}
+.component-35 {
+	margin-top:250px;
+	margin-left:200px;
+}
+.component-36 {
+	margin-top: 90px;
+	margin-left: 150px;
+	-webkit-transform: translateX(-50%);
+	transform: translateX(-50%);
+}
+.component-37 {
+	margin-left: 80px;
+	margin-top:400px;
+}
+.component-38 {
+	-webkit-transform: rotate(-10deg);
+  -moz-transform: rotate(-10deg);
+  -o-transform: rotate(-10deg);
+  -ms-transform: rotate(-10deg);
+  transform: rotate(-10deg);
+}
+.component-39 {
+	margin-left: 150px;
+	-webkit-transform: rotate(10deg);
+  -moz-transform: rotate(10deg);
+  -o-transform: rotate(10deg);
+  -ms-transform: rotate(10deg);
+  transform: rotate(10deg);
+}
+.component-40 {
+	margin-top: 430px;
+	margin-left: 80px;
+}
+.component-41 {
+	-webkit-transform: rotate(-5deg);
+  -moz-transform: rotate(-5deg);
+  -o-transform: rotate(-5deg);
+  -ms-transform: rotate(-5deg);
+  transform: rotate(-5deg);
+}
+.component-42 {
+	margin-left:85px;
+	margin-top:150px;
+	-webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  -o-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+  transform: rotate(5deg);
+}
+.component-43 {
+	margin-left:170px;
+	margin-top:150px;
+	-webkit-transform: rotate(-5deg);
+  -moz-transform: rotate(-5deg);
+  -o-transform: rotate(-5deg);
+  -ms-transform: rotate(-5deg);
+  transform: rotate(-5deg);
+}
+.component-44 {
+	margin-left: 250px;
+	-webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  -o-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+  transform: rotate(5deg);
+}
+.component-45 {
+	-webkit-transform: rotate(-30deg);
+  -moz-transform: rotate(-30deg);
+  -o-transform: rotate(-30deg);
+  -ms-transform: rotate(-30deg);
+  transform: rotate(-30deg);
+}
+.component-46 {
+	margin-left: 150px;
+	-webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  -ms-transform: rotate(30deg);
+  transform: rotate(30deg);
+}
+.component-47 {
+	margin-top:300px;
+	margin-left: 150px;
+	-webkit-transform: rotate(-30deg);
+  -moz-transform: rotate(-30deg);
+  -o-transform: rotate(-30deg);
+  -ms-transform: rotate(-30deg);
+  transform: rotate(-30deg);
+}
+.component-48 {
+	margin-top:220px;
+	margin-left:20px;
+	-webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  -ms-transform: rotate(30deg);
+  transform: rotate(30deg);
+}
+.component-49 {
+	margin-top: 240px;
+	margin-left: 75px;
+}
+.component-50 {
+	margin-top: 80px;
+	margin-left: 100px;
+	-webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  -ms-transform: rotate(30deg);
+  transform: rotate(30deg);
+}
