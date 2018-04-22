@@ -1,5 +1,7 @@
 # d3-letters-of-word-cloud
-This is a Javascript API developed using D3.js, d3.wordcloud.js, and d3.layout.cloud.js. You can use this tool to render words that consist of word clouds (wordles).
+This is a Javascript API developed using D3.js, d3.wordcloud.js, and d3.layout.cloud.js. You can use this tool to render words that consist of word clouds (wordles) like this:
+
+![](example.png)
 
 ## Getting started
 
@@ -27,5 +29,43 @@ A simpler way to integrate the dependencies is to directly load the online versi
 
 ```
 <script src="https://code.jquery.com/jquery-1.x-git.min.js"></script>
-<script src="https://d3js.org/d3.v5.min.js"></script>
+...
 ```
+
+### More dependency files
+
+Also make sure these files are integrated somewhere in your repository:
+
+```
+<script src="javascripts/letter-components.js"></script>
+<script src="javascripts/example.words.js"></script>
+<script src="javascripts/word-cloud-letters.js"></script>
+```
+
+## Usage
+
+You need to have a DOM element to render the words of word clouds. For example:
+```
+<div id='example'></div>
+```
+Next, a bag of words is needed to render the word cloud. An example of word list is in "javascripts/example.words.js":
+```
+var words = [
+  {text: 'have', size: 1},
+  {text: 'Oliver', size: 1},
+  {text: 'say', size: 1},
+  {text: 'said', size: 1},
+  ...
+  ];
+```
+The more words in the array, the better visualization is rendered.
+
+Now it is time to determine word(s) you are rendering. For example, if "XW" is what you would like to render, just add the following lines to your HTML file:
+```
+<script>
+  var div = 'example';
+  var pattern = "XW"; // Your word go here!
+  wordle(div, words, pattern);
+</script>
+```
+Hope you enjoy the word clouds!
