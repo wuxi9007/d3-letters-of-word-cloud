@@ -1,7 +1,5 @@
-/* Copyright (c) 2018 wuxi9007 */
-
 #word-cloud {
-	padding-top: 10px;
+	padding-top: 40px;
 	padding-left: 5%;
 	padding-right: 5%;
 }
@@ -19,22 +17,25 @@
 	height:600px;
 }
 .component-0 {
+	margin-left: 50px;
 }
 .component-1 {
 	margin-top: 90px;
-	margin-left: 150px;
+	margin-left: 200px;
 	-webkit-transform: translateX(-50%);
 	transform: translateX(-50%);
 }
 .component-2 {
 	margin-top: 400px;
+	margin-left:50px;
 }
 .component-3 {
 	margin-top: 90px;
+	margin-left: 50px;
 }
 .component-4 {
 	margin-top: 80px;
-	margin-left: 210px;
+	margin-left: 260px;
   -webkit-transform: rotate(70deg);
   -moz-transform: rotate(70deg);
   -o-transform: rotate(70deg);
@@ -43,7 +44,7 @@
 }
 .component-5 {
 	margin-top: 130px;
-	margin-left: 210px;
+	margin-left: 260px;
   -webkit-transform: rotate(110deg);
   -moz-transform: rotate(110deg);
   -o-transform: rotate(110deg);
@@ -52,11 +53,11 @@
 }
 .component-6 {
 	margin-top: 200px;
-	margin-left: 80px;
+	margin-left: 130px;
 }
 .component-7 {
 	margin-top: 240px;
-	margin-left: 230px;
+	margin-left: 280px;
   -webkit-transform: rotate(60deg);
   -moz-transform: rotate(60deg);
   -o-transform: rotate(60deg);
@@ -65,7 +66,7 @@
 }
 .component-8 {
 	margin-top: 320px;
-	margin-left: 230px;
+	margin-left: 280px;
   -webkit-transform: rotate(-60deg);
   -moz-transform: rotate(-60deg);
   -o-transform: rotate(-60deg);
@@ -73,10 +74,11 @@
   transform: rotate(-60deg);
 }
 .component-9 {
-	margin-left: 80px;
+	margin-left: 130px;
 }
 .component-10 {
 	margin-top: 60px;
+	margin-left: 50px;
 	-webkit-transform: rotate(10deg);
   -moz-transform: rotate(10deg);
   -o-transform: rotate(10deg);
@@ -85,7 +87,7 @@
 }
 .component-11 {
 	margin-top: 60px;
-	margin-left: 150px;
+	margin-left: 200px;
 	-webkit-transform: rotate(-10deg);
   -moz-transform: rotate(-10deg);
   -o-transform: rotate(-10deg);
@@ -94,19 +96,22 @@
 }
 .component-12 {
 	margin-top: 230px;
-	margin-left: 90px;
+	margin-left: 140px;
 }
 .component-13 {
+	margin-left:50px;
 }
 .component-14 {
-	margin-left:240px;
+	margin-left:290px;
 	margin-top: 130px;
 }
 .component-15 {
 	margin-top:400px;
+	margin-left:50px;
 }
 .component-16 {
 	margin-top:80px;
+	margin-left:50px;
 }
 .component-17 {
 	margin-top:200px;
@@ -114,23 +119,24 @@
 }
 .component-18 {
 	margin-top:300px;
-	margin-left:200px;
-}
-.component-19 {
-}
-.component-20 {
 	margin-left:250px;
 }
+.component-19 {
+	margin-left: 50px;
+}
+.component-20 {
+	margin-left:280px;
+}
 .component-21 {
-	margin-left:160px;
+	margin-left:210px;
 	margin-top:80px;
 }
 .component-22 {
 	margin-top:330px;
-	margin-left:10px;
+	margin-left:60px;
 }
 .component-23 {
-	margin-left:140px;
+	margin-left:190px;
 	-webkit-transform: rotate(40deg);
   -moz-transform: rotate(40deg);
   -o-transform: rotate(40deg);
@@ -139,7 +145,7 @@
 }
 .component-24 {
 	margin-top:230px;
-	margin-left:140px;
+	margin-left:190px;
 	-webkit-transform: rotate(-40deg);
   -moz-transform: rotate(-40deg);
   -o-transform: rotate(-40deg);
@@ -147,13 +153,14 @@
   transform: rotate(-40deg);
 }
 .component-25 {
-	margin-left: 80px;
+	margin-left: 130px;
 	margin-top:400px;
 }
 .component-26 {
+	margin-left:30px;
 }
 .component-27 {
-	margin-left:85px;
+	margin-left:115px;
 	-webkit-transform: rotate(-10deg);
   -moz-transform: rotate(-10deg);
   -o-transform: rotate(-10deg);
@@ -161,7 +168,7 @@
   transform: rotate(-10deg);
 }
 .component-28 {
-	margin-left:190px;
+	margin-left:220px;
 	-webkit-transform: rotate(10deg);
   -moz-transform: rotate(10deg);
   -o-transform: rotate(10deg);
@@ -169,10 +176,10 @@
   transform: rotate(10deg);
 }
 .component-29 {
-	margin-left: 270px;
+	margin-left: 300px;
 }
 .component-30 {
-	margin-left: 130px;
+	margin-left: 160px;
 	-webkit-transform: rotate(-18deg);
   -moz-transform: rotate(-18deg);
   -o-transform: rotate(-18deg);
@@ -180,11 +187,11 @@
   transform: rotate(-18deg);
 }
 .component-31 {
-	margin-left:200px;
+	margin-left:250px;
 	margin-top: 90px;
 }
 .component-32 {
-	margin-left:200px;
+	margin-left:250px;
 	margin-top: 90px;
 }
 .component-33 {
@@ -198,41 +205,44 @@
 }
 .component-34 {
 	margin-top:90px;
+	margin-left:50px;
 }
 .component-35 {
 	margin-top:250px;
-	margin-left:200px;
+	margin-left:250px;
 }
 .component-36 {
 	margin-top: 90px;
-	margin-left: 150px;
+	margin-left: 200px;
 	-webkit-transform: translateX(-50%);
 	transform: translateX(-50%);
 }
 .component-37 {
-	margin-left: 80px;
+	margin-left: 130px;
 	margin-top:400px;
 }
 .component-38 {
-	-webkit-transform: rotate(-10deg);
-  -moz-transform: rotate(-10deg);
-  -o-transform: rotate(-10deg);
-  -ms-transform: rotate(-10deg);
-  transform: rotate(-10deg);
+	margin-left: 50px;
+	-webkit-transform: rotate(-15deg);
+  -moz-transform: rotate(-15deg);
+  -o-transform: rotate(-15deg);
+  -ms-transform: rotate(-15deg);
+  transform: rotate(-15deg);
 }
 .component-39 {
-	margin-left: 150px;
-	-webkit-transform: rotate(10deg);
-  -moz-transform: rotate(10deg);
-  -o-transform: rotate(10deg);
-  -ms-transform: rotate(10deg);
-  transform: rotate(10deg);
+	margin-left: 230px;
+	-webkit-transform: rotate(15deg);
+  -moz-transform: rotate(15deg);
+  -o-transform: rotate(15deg);
+  -ms-transform: rotate(15deg);
+  transform: rotate(15deg);
 }
 .component-40 {
 	margin-top: 430px;
-	margin-left: 80px;
+	margin-left: 200px;
 }
 .component-41 {
+	margin-left:50px;
 	-webkit-transform: rotate(-5deg);
   -moz-transform: rotate(-5deg);
   -o-transform: rotate(-5deg);
@@ -240,7 +250,7 @@
   transform: rotate(-5deg);
 }
 .component-42 {
-	margin-left:85px;
+	margin-left:135px;
 	margin-top:150px;
 	-webkit-transform: rotate(5deg);
   -moz-transform: rotate(5deg);
@@ -249,7 +259,7 @@
   transform: rotate(5deg);
 }
 .component-43 {
-	margin-left:170px;
+	margin-left:220px;
 	margin-top:150px;
 	-webkit-transform: rotate(-5deg);
   -moz-transform: rotate(-5deg);
@@ -258,7 +268,7 @@
   transform: rotate(-5deg);
 }
 .component-44 {
-	margin-left: 250px;
+	margin-left: 300px;
 	-webkit-transform: rotate(5deg);
   -moz-transform: rotate(5deg);
   -o-transform: rotate(5deg);
@@ -266,24 +276,24 @@
   transform: rotate(5deg);
 }
 .component-45 {
-	margin-left: 60px;
-	-webkit-transform: rotate(-30deg);
-  -moz-transform: rotate(-30deg);
-  -o-transform: rotate(-30deg);
-  -ms-transform: rotate(-30deg);
-  transform: rotate(-30deg);
+	margin-left:70px;
+	-webkit-transform: rotate(-40deg);
+  -moz-transform: rotate(-40deg);
+  -o-transform: rotate(-40deg);
+  -ms-transform: rotate(-40deg);
+  transform: rotate(-40deg);
 }
 .component-46 {
-	margin-left: 210px;
-	-webkit-transform: rotate(30deg);
-  -moz-transform: rotate(30deg);
-  -o-transform: rotate(30deg);
-  -ms-transform: rotate(30deg);
-  transform: rotate(30deg);
+	margin-left: 250px;
+	-webkit-transform: rotate(40deg);
+  -moz-transform: rotate(40deg);
+  -o-transform: rotate(40deg);
+  -ms-transform: rotate(40deg);
+  transform: rotate(40deg);
 }
 .component-47 {
-	margin-top:280px;
-	margin-left: 210px;
+	margin-top:270px;
+	margin-left: 260px;
 	-webkit-transform: rotate(-30deg);
   -moz-transform: rotate(-30deg);
   -o-transform: rotate(-30deg);
@@ -291,8 +301,8 @@
   transform: rotate(-30deg);
 }
 .component-48 {
-	margin-left: 60px;
-	margin-top:230px;
+	margin-left:180px;
+	margin-top: -20px;
 	-webkit-transform: rotate(30deg);
   -moz-transform: rotate(30deg);
   -o-transform: rotate(30deg);
@@ -300,15 +310,23 @@
   transform: rotate(30deg);
 }
 .component-49 {
-	margin-top: 240px;
-	margin-left: 130px;
+	margin-top: 210px;
+	margin-left: 160px;
 }
 .component-50 {
 	margin-top: 80px;
-	margin-left: 100px;
+	margin-left: 150px;
 	-webkit-transform: rotate(30deg);
   -moz-transform: rotate(30deg);
   -o-transform: rotate(30deg);
   -ms-transform: rotate(30deg);
   transform: rotate(30deg);
+}
+.component-51 {
+	margin-left:100px;
+	-webkit-transform: rotate(-30deg);
+  -moz-transform: rotate(-30deg);
+  -o-transform: rotate(-30deg);
+  -ms-transform: rotate(-30deg);
+  transform: rotate(-30deg);
 }
